@@ -1,0 +1,29 @@
+This is an Backend for blog website which
+
+Include multiple controllers connected to corresponding routes 
+stores data in mongodb using postman for api .
+
+
+controllers included =>
+
+createcomment
+
+createpost
+getallposts
+deletepost
+
+likepost 
+unlikepost
+
+
+
+tech used:
+
+express,nodejs,mongodb,mongoose,postman
+
+
+
+
+
+_________________________Akshay Dhobale_________________________
+
